@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Aldrich'; /*a name to be used later*/
+    src: URL('Aldrich-Regular.ttf'); /*URL to font*/
+}
+h1{
+    text-align: center;
+    color: #384ba6;
+    font-family: "Aldrich", sans-serif;
+}
+h2{
+    text-align: center;
+    color: #384ba6;
+    font-family: "Aldrich", serif; 
+}
+p{
+    font-family: "Aldrich", sans-serif;
+}
+
+.Who{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+li{
+    
+    color: #384ba6;
+    font-family: "Aldrich", serif; 
+}
