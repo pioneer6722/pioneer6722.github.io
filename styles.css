@@ -3,21 +3,34 @@
     src: URL('Aldrich-Regular.ttf'); /*URL to font*/
 }
 body {
-    background-image: url("background_collage.png");
+    background-image: url("New\ Project\ \(6\).png");
     background-color: #010101;
-    opacity: .5;
+
 }
+
 h1{
     text-align: center;
     color: #384ba6;
     font-family: "Aldrich", sans-serif;
+    text-shadow: 0 0 5px #29377c
 }
 h2{
     text-align: center;
     color: #384ba6;
     font-family: "Aldrich", serif; 
+    text-shadow: 0 0 3px #29377c;
+}
+h3{
+    color:antiquewhite;
+    font-family: "Aldrich", sans-serif;
+    text-shadow: 0 0 3px #c9b69e
+}
+h4{
+    color:antiquewhite;
+    font-family: "Aldrich", sans-serif;
 }
 p{
+    color:antiquewhite;
     font-family: "Aldrich", sans-serif;
 }
 
@@ -27,8 +40,8 @@ p{
 }
 li{
     
-    color: #384ba6;
-    font-family: "Aldrich", serif; 
+    color:antiquewhite;
+    font-family: "Aldrich", sans-serif;
 }
 
 .B-Accomplishments{
